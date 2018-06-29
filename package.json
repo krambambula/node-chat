@@ -6,7 +6,7 @@
   },
   "private": true,
   "scripts": {
-    "start": "cross-env NODE_ENV=production node server"
+    "start": "node server.js"
   },
   "dependencies": {
     "chalk": "~1.0.0",
